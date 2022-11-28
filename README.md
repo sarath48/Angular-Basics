@@ -1,4 +1,6 @@
-# Angularrouting
+# Angular Basics
+
+It contains angular basic concepts like directives,pipes,services,components,modules,routing,authentication,interceptors,guards,forms.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.6.
 
